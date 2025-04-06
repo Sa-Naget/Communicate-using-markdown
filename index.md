@@ -23,3 +23,8 @@ b = 2
 answer = 5
 print(answer)
 ```
+
+## Hmm what do i gotta do tomorrow?
+
+- [ ] Check out Github pages
+- [ ] Get used to Github
