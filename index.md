@@ -10,4 +10,6 @@
 
 ###### Hi! I'm H6
 
-###### "Big chnages created by small changes"
+###### "Big changes created by small changes"
+
+![If the universe don't want you, who would?](https://github.com/user-attachments/assets/96eea985-f370-45cd-9a43-6ce90b864e7c)
